@@ -1,2 +1,6 @@
 some contents
 changes made in github
+
+add: add a new/modified file to be track
+commit: commit all the added files as a snapshot
+push: sync the snapshot(s) in local to remote
